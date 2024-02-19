@@ -23,8 +23,9 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "scheme":"rn-study",
+    "plugins": [
+      "expo-router"
+    ]
   }
 }
